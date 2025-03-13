@@ -1,7 +1,7 @@
 # Fine-tuning Wav2Vec2 model for Vietnamese ASR
 
 ## Data preparation :
-Data should be prepared similar to the sample provided. The content of the csv data file should have 2 columns:
+Data should be prepared similar to the [sample](https://github.com/thanhlap1509/Wav2Vec2-SKD/blob/master/sample.csv) provided. The content of the csv data file should have 2 columns:
  1. path: full path to audio file
  2. transcription: transcript of the audio file (the transcript should be normalized, such as removing all punctuation, converting to lowercase, etc.)
 
